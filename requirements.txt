@@ -1,0 +1,9 @@
+Django>=4.2
+djangorestframework
+celery[redis]
+redis
+Pillow
+django-cors-headers
+drf-yasg                # optional for swagger
+python-dotenv          # optional
+requests                # for testing
